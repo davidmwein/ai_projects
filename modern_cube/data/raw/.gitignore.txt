@@ -1,0 +1,7 @@
+# Raw tournament data (large files - store locally only)
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.env
